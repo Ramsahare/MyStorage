@@ -1,10 +1,11 @@
 package practiceCode;
 
+import org.testng.annotations.Test;
+
 public class Checker2Test {
+	@Test
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("checker 2 is running sucessfully");
+	public void dummyMethod() {
+		System.out.println("checker 2 is running sucessfully");
 	}
-
 }
