@@ -6,6 +6,7 @@ public class Import1 {
 	@Test
 	
 public void add() {
-	System.out.println("importing ");
+	System.out.println("BRANCH CHECKING of githubimport prject  ");
+	System.out.println("pipiline job");
 }
 }
