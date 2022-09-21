@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-21T11:23:02 IST" name="Default suite" finished-at="2022-09-21T11:24:52 IST" duration-ms="109510">
+    <groups>
+    </groups>
+    <test started-at="2022-09-21T11:23:02 IST" name="Default test" finished-at="2022-09-21T11:24:52 IST" duration-ms="109510">
+      <class name="flipkart.com.FlipkartCartTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:23:02 IST" name="bs" finished-at="2022-09-21T11:23:02 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:23:02 IST" name="bt" finished-at="2022-09-21T11:23:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:23:02 IST" name="bc" finished-at="2022-09-21T11:24:13 IST" duration-ms="70810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:24:13 IST" name="bm" finished-at="2022-09-21T11:24:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="cartTest()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:24:13 IST" name="cartTest" finished-at="2022-09-21T11:24:52 IST" duration-ms="38607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartTest -->
+        <test-method is-config="true" signature="am()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:24:52 IST" name="am" finished-at="2022-09-21T11:24:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:24:52 IST" name="ac" finished-at="2022-09-21T11:24:52 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:24:52 IST" name="at" finished-at="2022-09-21T11:24:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:flipkart.com.FlipkartCartTest@1e04fa0a]" started-at="2022-09-21T11:24:53 IST" name="as" finished-at="2022-09-21T11:24:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- flipkart.com.FlipkartCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
